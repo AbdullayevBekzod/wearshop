@@ -1,0 +1,27 @@
+- TODO LIST
+Youtube "E-commerce website using django and vue" from freecodecamp
+-DONE install and setup (Django)
+    - install django-rest-framework
+    - install django-cors-headers
+    - install djoser
+    - install pillow
+    - install stripe 
+
+-DONE install and setup (Vue)
+    - include FontAwesome
+    - install axios (helping with connect backend)
+    - install bulma (css framework)
+
+-DONE Set up the base template
+-DONE Create Django app and models for products
+-DONE Create serializer and views for products
+-DONE Create simple front end (latest products)
+- View a product
+    - create viewset in Django
+    - Create Vue page for showing Product
+    - Add link to detail page
+- Sette opp Vuex / State
+- Make it possible to add to cart
+    - add functionality 
+
+
